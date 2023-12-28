@@ -131,6 +131,7 @@ This project is licensed under the [MIT License](LICENSE). Use and modify with a
 - [Telegram Group](https://t.me/+vbRj3yYnR8I5Njc0)
 - [LinkedIn Group](https://www.linkedin.com/groups/12956304/)
 - [LinkedIn Post](https://www.linkedin.com/in/aminblm/)
+- [Instagram Page](https://www.instagram.com/freepalestine.supportkit/)
 
 ## FAQs
 

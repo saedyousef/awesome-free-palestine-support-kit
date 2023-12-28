@@ -1,10 +1,11 @@
 # #FreePalestine🇵🇸 Support Kit
 
-![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/aminblm/awesome-free-palestine-support-kit)
 
-![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/aminblm/awesome-free-palestine-support-kit)
 
-![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)](https://github.com/aminblm/awesome-free-palestine-support-kit)
+
 - للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
 - Le lien vers la version [francaise](fr.md) du document.
 

@@ -15,7 +15,7 @@
 ## Table des matières
 
 1. [Fonctionnalités](#fonctionnalités)
-2. [À qui est-ce destiné ?](#à qui-est-ce-pour)
+2. [À qui est-ce destiné ?](#À-qui-est-ce-destiné)
 3. [Mise en route](#getting-started)
 4. [Comment contribuer](#comment-contribuer)
 5. [Licence](#licence)

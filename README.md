@@ -1,6 +1,6 @@
 # #FreePalestine🇵🇸 Support Kit
 
-![Palestine Flag](https://static-00.iconduck.com/assets.00/flag-palestinian-territories-emoji-2048x1279-4hg6y8w5.png)
+[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 - للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
 - Le lien vers la version [francaise](fr.md) du document.

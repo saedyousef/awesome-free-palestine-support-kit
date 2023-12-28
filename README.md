@@ -5,9 +5,6 @@
 ![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)
 
 ![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg)
-
-![image](https://github.com/aminblm/awesome-free-palestine-support-kit/assets/25132838/bd6c528f-7878-49e0-8688-ad62c9374ec8)
-
 - للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
 - Le lien vers la version [francaise](fr.md) du document.
 

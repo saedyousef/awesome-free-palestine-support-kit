@@ -106,7 +106,9 @@ This project is licensed under the [MIT License](LICENSE). Use and modify with a
 ## Additional Resources
 
 - [Official Website](https://aminblm.github.io/awesome-free-palestine-support-kit/)
-
+- [Github Repository](https://github.com/aminblm/awesome-free-palestine-support-kit)
+- [Telegram Group](https://t.me/+vbRj3yYnR8I5Njc0)
+- [LinkedIn Group](https://www.linkedin.com/groups/12956304/)
 
 ## FAQs
 

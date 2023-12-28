@@ -2,6 +2,9 @@
 
 [![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
 
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg)](https://github.com/Safouene1/support-palestine-banner)
 - للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
 - Le lien vers la version [francaise](fr.md) du document.
 

@@ -96,6 +96,8 @@ Contributions to the `free-palestine-support-kit` repository are welcome directl
 
 5. **Await Review**: Your pull request will be reviewed by the repository maintainers. Be open to feedback and make any necessary adjustments.
 
+6. **Update the languages pages**: Before committing any changes make sure you synchronize them with the languages pages with at least a translator and we will review it internally.
+
 By following these steps, you'll be contributing to the growth and effectiveness of this support kit. Thank you for your support and collaboration!
 
 ## License

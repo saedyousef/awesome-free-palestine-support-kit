@@ -50,6 +50,8 @@
 ### Github Resources
 
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner): Simply setup banner for websites to show support for Palestinians.
+- [hexated/cloudstream-extensions-hexated](https://github.com/hexated/cloudstream-extensions-hexated): Julidfisabilillah for Palestine 🇵🇸
+- [saedyousef/StandWithPalestine](https://github.com/saedyousef/StandWithPalestine): StandWithPalestine 🇵🇸 Badges , and more
 
 ### Anti-Zionist Propaganda
 

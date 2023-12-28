@@ -14,8 +14,9 @@
 4. [How to Contribute](#how-to-contribute)
 5. [License](#license)
 6. [Additional Resources](#additional-resources)
-7. [Contact](#contact)
-8. [Acknowledgments](#acknowledgments)
+7. [FAQs](#faqs)
+8. [Contact](#contact)
+9. [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -68,11 +69,34 @@ This project is licensed under the [MIT License](LICENSE). Use and modify with a
 ## Additional Resources
 
 - [Official Website](https://aminblm.github.io/free-palestine-support-kit/)
-- [FAQs](https://aminblm.github.io/free-palestine-support-kit/faqs)
+
+
+## FAQs
+
+### 1. What is the purpose of the `free-palestine-support-kit` repository?
+The repository serves as a resource hub offering tools, resources, and educational materials for advocating a free Palestine.
+
+### 2. Who can contribute to this repository?
+Anyone passionate about the cause can contribute. Contributions can be made directly through the GitHub interface.
+
+### 3. How can I report an issue or suggest a feature?
+You can report issues or suggest features by opening a new [issue](https://github.com/aminblm/free-palestine-support-kit/issues) on GitHub.
+
+### 4. Is there a code of conduct for contributors?
+Yes, we expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.
+
+### 5. Can I use the resources for commercial purposes?
+Please refer to the [License](#license) section for information on how you can use and modify the content.
+
+### 6. How can I stay updated on new additions or changes?
+You can "Watch" this repository on GitHub to receive notifications or follow our [Official Website](https://aminblm.github.io/free-palestine-support-kit/) for updates.
+
+### 7. I have more questions. Who can I contact?
+For additional inquiries, please reach out to [amin+freepalestine@boulouma.com](mailto:amin+freepalestine@boulouma.com).
 
 ## Contact
 
-For inquiries, contact [email@example.com](mailto:email@example.com).
+For inquiries, contact [amin+freepalestine@boulouma.com](mailto:amin+freepalestine@boulouma.com).
 
 ## Acknowledgments
 

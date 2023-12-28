@@ -1,4 +1,4 @@
-# FreePalestine🇵🇸 Support Kit
+# #FreePalestine🇵🇸 Support Kit
 
 ![Palestine Flag](https://static-00.iconduck.com/assets.00/flag-palestinian-territories-emoji-2048x1279-4hg6y8w5.png)
 

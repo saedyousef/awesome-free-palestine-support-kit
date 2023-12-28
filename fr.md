@@ -6,8 +6,8 @@
 
 ---
 
-Cet ajout fournit un lien vers la version [arabe](ar.md) du document.
-Cet ajout fournit un lien vers la version [anglaise](README.md) du document.
+للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
+This link is to access the [English](README.md) version of this document.
 
 ## Aperçu
 

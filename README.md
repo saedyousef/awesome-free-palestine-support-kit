@@ -17,15 +17,20 @@
 
 ## Table of Contents
 
-1. [Features](#features)
-2. [Who Is This For?](#who-is-this-for)
-3. [Getting Started](#getting-started)
-4. [How to Contribute](#how-to-contribute)
-5. [License](#license)
-6. [Additional Resources](#additional-resources)
-7. [FAQs](#faqs)
-8. [Contact](#contact)
-9. [Acknowledgments](#acknowledgments)
+1. [Goals](#goals)
+2. [Features](#features)
+3. [Who Is This For?](#who-is-this-for)
+4. [Getting Started](#getting-started)
+5. [How to Contribute](#how-to-contribute)
+6. [License](#license)
+7. [Additional Resources](#additional-resources)
+8. [FAQs](#faqs)
+9. [Contact](#contact)
+10. [Acknowledgments](#acknowledgments)
+
+## Goals
+
+- [ ] **Goal 1**: Get the children to a safe place.
 
 ## Features
 

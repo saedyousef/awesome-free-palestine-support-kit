@@ -2,7 +2,7 @@
 
 ![Palestine Flag](https://static-00.iconduck.com/assets.00/flag-palestinian-territories-emoji-2048x1279-4hg6y8w5.png)
 
-للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](arabic.md).
+للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
 
 ---
 
@@ -106,7 +106,7 @@ This project is licensed under the [MIT License](LICENSE). Use and modify with a
 
 ## Additional Resources
 
-- [Official Website](https://aminblm.github.io/free-palestine-support-kit/)
+- [Official Website](https://aminblm.github.io/awesome-free-palestine-support-kit/)
 
 
 ## FAQs
@@ -118,7 +118,7 @@ The repository serves as a resource hub offering tools, resources, and education
 Anyone passionate about the cause can contribute. Contributions can be made directly through the GitHub interface.
 
 ### 3. How can I report an issue or suggest a feature?
-You can report issues or suggest features by opening a new [issue](https://github.com/aminblm/free-palestine-support-kit/issues) on GitHub.
+You can report issues or suggest features by opening a new [issue](https://github.com/aminblm/awesome-free-palestine-support-kit/issues) on GitHub.
 
 ### 4. Is there a code of conduct for contributors?
 Yes, we expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.
@@ -127,7 +127,7 @@ Yes, we expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDU
 Please refer to the [License](#license) section for information on how you can use and modify the content.
 
 ### 6. How can I stay updated on new additions or changes?
-You can "Watch" this repository on GitHub to receive notifications or follow our [Official Website](https://aminblm.github.io/free-palestine-support-kit/) for updates.
+You can "Watch" this repository on GitHub to receive notifications or follow our [Official Website](https://aminblm.github.io/awesome-free-palestine-support-kit/) for updates.
 
 ### 7. I have more questions. Who can I contact?
 For additional inquiries, please reach out to [amin+freepalestine@boulouma.com](mailto:amin+freepalestine@boulouma.com).

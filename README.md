@@ -67,8 +67,8 @@ This project is licensed under the [MIT License](LICENSE). Use and modify with a
 
 ## Additional Resources
 
-- [Official Website](https://example.com)
-- [FAQs](https://example.com/faqs)
+- [Official Website](https://aminblm.github.io/free-palestine-support-kit/)
+- [FAQs](https://aminblm.github.io/free-palestine-support-kit/faqs)
 
 ## Contact
 

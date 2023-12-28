@@ -31,6 +31,36 @@
 - **Language Support**: Materials available in multiple languages for broader reach.
 - **Historical Context**: Resources detailing the history and context of the Palestinian struggle.
 
+### 1. Insights & Analysis
+- Delve into deep-dive articles and reports that offer comprehensive insights into the Palestinian situation, enhancing your understanding and knowledge base.
+
+### 2. Educational Materials
+- Access a curated collection of educational resources designed to enlighten and inform users about the intricacies of the Palestinian cause.
+
+### 3. Actionable Content
+- Utilize ready-to-use templates, guides, and actionable steps that empower you to engage in effective advocacy efforts, making a tangible difference.
+
+### 4. Multimedia Resources
+- Explore a rich repository of multimedia content, including videos, documentaries, and podcasts, providing diverse perspectives and narratives related to Palestine.
+
+### 5. Event Planning Guides
+- Find comprehensive resources tailored for organizing impactful events such as rallies, seminars, and awareness campaigns, ensuring successful execution and engagement.
+
+### 6. Infographics & Visuals
+- Access visually engaging and informative infographics and visuals, perfect for presentations, social media campaigns, and spreading awareness effectively.
+
+### 7. Legal Resources
+- Gain access to critical information on Palestinian rights, international laws, treaties, and legal frameworks, empowering informed advocacy and action.
+
+### 8. Community Forums
+- Engage with a vibrant community of supporters in dedicated forums, fostering discussions, sharing ideas, and collaborating on initiatives that champion the Palestinian cause.
+
+### 9. Language Support
+- Benefit from materials available in multiple languages, ensuring a broader reach and inclusivity, catering to diverse audiences globally.
+
+### 10. Historical Context
+- Dive deep into resources that provide a comprehensive historical context, detailing the evolution, struggles, and milestones of the Palestinian cause, enriching your perspective and understanding.
+
 ## Who Is This For?
 
 - Activists passionate about Palestinian rights.

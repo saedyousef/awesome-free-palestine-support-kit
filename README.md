@@ -3,7 +3,7 @@
 ![Palestine Flag](https://static-00.iconduck.com/assets.00/flag-palestinian-territories-emoji-2048x1279-4hg6y8w5.png)
 
 - للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: [النسخة العربية](ar.md).
-- Le lien vers la version [francais](fr.md) du document.
+- Le lien vers la version [francaise](fr.md) du document.
 
 ---
 

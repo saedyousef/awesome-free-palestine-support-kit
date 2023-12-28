@@ -35,6 +35,7 @@
 ## Features
 
 - **Github Resources**: A collection of github resources to facilitate the support of the Palestinian people.
+- **Anti-Zionist Propaganda**: A curated list of Anti-Zionist Propaganda.
 - **Insights & Analysis**: Deep-dive articles and reports to enhance understanding.
 - **Educational Materials**: Curated content to educate and inform.
 - **Actionable Content**: Templates, guides, and actionable steps for advocacy efforts.
@@ -49,6 +50,10 @@
 ### Github Resources
 
 - [Safouene1/support-palestine-banner](https://github.com/Safouene1/support-palestine-banner): Simply setup banner for websites to show support for Palestinians.
+
+### Anti-Zionist Propaganda
+
+- Document all Anti-zionist propaganda sources for deeper lookout.
 
 ### Insights & Analysis
 - Delve into deep-dive articles and reports that offer comprehensive insights into the Palestinian situation, enhancing your understanding and knowledge base.

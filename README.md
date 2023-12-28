@@ -1,4 +1,4 @@
-# #FreePalestine🇵🇸 Support Kit
+# Awesome #FreePalestine🇵🇸 Support Kit
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/aminblm/awesome-free-palestine-support-kit)
 

@@ -2,6 +2,9 @@
 
 ![Palestine Flag](https://static-00.iconduck.com/assets.00/flag-palestinian-territories-emoji-2048x1279-4hg6y8w5.png)
 
+للحصول على النسخة العربية من هذا الوثيقة، يمكنكم زيارة: النسخة العربية.
+
+
 ## Overview
 
 🇵🇸 The `free-palestine-support-kit` repository is a dedicated hub designed to empower individuals, activists, and educators in their advocacy for a free and sovereign Palestine. This kit is meticulously curated to offer a blend of tools, resources, and educational materials, ensuring that supporters have everything they need to make a meaningful impact.

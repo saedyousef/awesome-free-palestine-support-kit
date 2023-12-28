@@ -47,13 +47,19 @@
 
 ## How to Contribute
 
-We welcome contributions from the community! Whether it's adding resources, suggesting improvements, or reporting issues, your input is valuable.
+Contributions to the `free-palestine-support-kit` repository are welcome directly through the GitHub interface. Here's how you can contribute:
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-resource`.
-3. Make your changes and commit: `git commit -m 'Add new resource'`.
-4. Push to the branch: `git push origin feature/new-resource`.
-5. Submit a pull request.
+1. **Fork the Repository**: Click the "Fork" button on the top-right corner of the repository's page to create your copy.
+
+2. **Make Changes**: Navigate to the file you'd like to edit in your forked repository. Click the pencil icon (Edit) to make changes directly in the browser.
+
+3. **Commit Changes**: Once you've made your changes, scroll down to the "Commit changes" section. Provide a meaningful commit message describing your changes.
+
+4. **Create Pull Request**: After committing your changes, navigate back to the main repository (not your fork). You should see a notification prompting you to create a pull request. Click on it, review your changes, and submit the pull request.
+
+5. **Await Review**: Your pull request will be reviewed by the repository maintainers. Be open to feedback and make any necessary adjustments.
+
+By following these steps, you'll be contributing to the growth and effectiveness of this support kit. Thank you for your support and collaboration!
 
 ## License
 
